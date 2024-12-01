@@ -41,22 +41,22 @@
 <h2>Screen Shots</h2>
 
 <h4>Register</h4>
-<img src="https://raw.githubusercontent.com/user-attachments/assets/b83edf94-0b26-4ab0-97f8-647cedb15656" alt="Register">
+<img src="https://github.com/Ashish-Dhek/News-Feed/blob/69fbb3d5336ea70244829446ce56e4a67b1080e8/Register.png">
 
 <h4>Login</h4>
-<img src="https://raw.githubusercontent.com/user-attachments/assets/bd4c14c3-3ff0-410e-8ac0-c9b462acee86" alt="Login">
+<img src="https://github.com/Ashish-Dhek/News-Feed/blob/69fbb3d5336ea70244829446ce56e4a67b1080e8/Login.png">
 
 <h4>Home</h4>
-<img src="https://raw.githubusercontent.com/user-attachments/assets/991bf571-327e-416a-921c-3dbc68f3e1d7" alt="Home">
+<img src="https://github.com/Ashish-Dhek/News-Feed/blob/69fbb3d5336ea70244829446ce56e4a67b1080e8/Home.png">
 
 <h4>Create Post</h4>
-<img src="https://raw.githubusercontent.com/user-attachments/assets/6de63b68-55a0-4bc0-9ad9-f558d7b2c98b" alt="Create Post">
+<img src="https://github.com/Ashish-Dhek/News-Feed/blob/69fbb3d5336ea70244829446ce56e4a67b1080e8/CreatePost.png">
 
 <h4>Post View</h4>
-<img src="https://raw.githubusercontent.com/user-attachments/assets/13086dea-7038-4390-9200-3a4c5c71b078" alt="Post View">
+<img src="https://github.com/Ashish-Dhek/News-Feed/blob/69fbb3d5336ea70244829446ce56e4a67b1080e8/PostPage.png">
 
 <h4>Likes, Views, and Comments</h4>
-<img src="https://raw.githubusercontent.com/user-attachments/assets/8f3741e0-ef10-4453-aec9-d0a924abeb3b" alt="Likes Views and Comments">
+<img src="https://github.com/Ashish-Dhek/News-Feed/blob/69fbb3d5336ea70244829446ce56e4a67b1080e8/LikesComments.png">
 
 <h4>Reply in Comments</h4>
-<img src="https://raw.githubusercontent.com/user-attachments/assets/26d07bf1-8b54-48c0-bf9b-4deed7c3e270" alt="Comment Reply">
+<img src="https://github.com/Ashish-Dhek/News-Feed/blob/69fbb3d5336ea70244829446ce56e4a67b1080e8/CommentReply.png">
