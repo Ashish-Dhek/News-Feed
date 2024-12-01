@@ -44,7 +44,7 @@
 
   <h2>Screen Shots</h2>
   <h4>Regiter</h4>
-  ![Register](https://github.com/user-attachments/assets/b83edf94-0b26-4ab0-97f8-647cedb15656)
+  ![Register](https://raw.githubusercontent.com/user-attachments/assets/b83edf94-0b26-4ab0-97f8-647cedb15656)
 
   <h4>Login</h4>
   ![Login](https://github.com/user-attachments/assets/bd4c14c3-3ff0-410e-8ac0-c9b462acee86)
